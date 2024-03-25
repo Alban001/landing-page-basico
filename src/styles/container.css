@@ -1,4 +1,11 @@
-.container {
-
+.container{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+.container:has(.entrada-container){
+    background-image: url('../src/img/pic1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
 }
 
