@@ -9,7 +9,7 @@
     
 }
 .container:has(.entrada-container){
-    background-image: url('../pi1.jpg');
+    background-image: url('../pic1.jpg');
     background-repeat: no-repeat;
     background-size: cover; 
 }
