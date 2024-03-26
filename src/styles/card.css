@@ -41,7 +41,7 @@
         img {
             background-repeat: no-repeat;
             background-size:cover;
-            height: 20rem;
+            height: auto;
             border-radius: 0.2rem;
             opacity: 0.8;
             margin-top: 2rem;
