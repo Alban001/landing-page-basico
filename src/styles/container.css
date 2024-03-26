@@ -17,7 +17,7 @@
 
 @media only screen and (max-width: 720px){
     .container{
-        max-width: 720px;
+        width: auto;
         height: 100vh;
         margin: 0;
         scroll-behavior:smooth;
