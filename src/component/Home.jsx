@@ -4,7 +4,7 @@ import '../styles/entradaContainer.css'
 const Entrada = () => {
   return (
     <div className='entrada-container'>
-        <h1>Leticia Rosner</h1>
+        <h1 id='home'>Leticia Rosner</h1>
         <button><a href="#arte">Explorar</a></button>
     </div>
   )
