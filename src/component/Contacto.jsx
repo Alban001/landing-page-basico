@@ -10,9 +10,9 @@ const wats = CardOjects[2].face
 const Contacto = () => {
   return (
     <div id='contact' className='contacto-container'>
-            <img src={inst} alt="" />
-            <img src={wats} alt="" />
-            <img src={face} alt="" />
+            <a href=""><img src={inst} alt="" /></a>
+            <a href=""><img src={wats} alt="" /></a>
+            <a href=""> <img src={face} alt="" /></a>
           
     </div>
   )

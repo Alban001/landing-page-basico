@@ -3,6 +3,7 @@
     height: 100vh;
     margin: 0;
     scroll-behavior:smooth;
+    overflow-x: hidden;
     h1{
         color: white;
     }
@@ -16,7 +17,7 @@
 
 @media only screen and (max-width: 720px){
     .container{
-        width: 100vw;
+        max-width: 720px;
         height: 100vh;
         margin: 0;
         scroll-behavior:smooth;

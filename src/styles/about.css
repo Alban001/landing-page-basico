@@ -3,6 +3,7 @@
     width: 45rem;
     height: 25rem;
     margin-left: 24rem; 
+    color: white;
 }
 @media only screen and (max-width: 720px) {
     .about{
@@ -11,5 +12,6 @@
         height: 18rem;
         padding-right: 90%;
         margin-left: 25%;
+        font-size: larger;
     }
 }
