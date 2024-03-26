@@ -13,7 +13,7 @@
     }
 }
 
-@media only screen and (max-width: 720px){
+@media only screen and (max-width: 800px){
     .footer-container{
         display: flex;
         flex-direction: row;

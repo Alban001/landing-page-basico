@@ -7,7 +7,7 @@
     border-radius: 0.5rem;
     
 }
-@media only screen and (max-width: 720px){
+@media only screen and (max-width: 800px){
     .contacto-container{
         display: flex;
         flex-direction: row;
@@ -16,6 +16,6 @@
         width: 100%;
         border-radius: 0.5rem;
         margin-right: 5rem;
-        
+        margin-top: 4rem;
     }
 }

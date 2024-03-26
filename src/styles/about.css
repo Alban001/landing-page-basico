@@ -5,7 +5,7 @@
     margin-left: 24rem; 
     color: white;
 }
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 800px) {
     .about{
         margin-top:2rem;
         width:60%;
