@@ -5,3 +5,13 @@
    margin-left: 4.3rem;
    margin-top: 4rem;
 }
+
+@media only screen and (min-width: 600px) {
+   .trabajo-container{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      align-items: center;
+      margin-left: 4.3rem;
+      margin-top: 4rem;
+   }
+}

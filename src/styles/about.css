@@ -2,7 +2,14 @@
     margin-top: 30rem;
     width: 45rem;
     height: 25rem;
-    margin-left: 24rem;
-    
-   
+    margin-left: 24rem; 
+}
+@media only screen and (min-width: 500px) {
+    .about{
+        margin-top:20%;
+        width:60%;
+        height: 18rem;
+        padding-right: 90%;
+        margin-left: 25%;
+    }
 }
