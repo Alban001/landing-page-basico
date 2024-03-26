@@ -9,7 +9,7 @@ const Trabajos = () => {
     <section id='arte' className='trabajo-container'>
         {
             cardObject.map(item => (
-                <Card key={item.id} descripcion={item.desc} img={item.img}/>
+                <Card key={item.id}  img={item.img}/>
             ))
         }
     </section>

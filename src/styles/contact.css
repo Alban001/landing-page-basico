@@ -7,3 +7,15 @@
     border-radius: 0.5rem;
     
 }
+@media only screen and (max-width: 720px){
+    .contacto-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 1rem;
+        width: 100%;
+        border-radius: 0.5rem;
+        margin-right: 5rem;
+        
+    }
+}
