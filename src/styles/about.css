@@ -8,10 +8,10 @@
 @media only screen and (max-width: 800px) {
     .about{
         margin-top:2rem;
-        width:60%;
+        width:80%;
         height: 18rem;
         padding-right: 90%;
-        margin-left: 25%;
+        margin-left: 15%;
         font-size: larger;
     }
 }

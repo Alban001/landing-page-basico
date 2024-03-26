@@ -35,7 +35,7 @@
     .card {
         width: 100%;
         height: auto; 
-        text-align: center;
+       
         
         img {
             background-repeat: no-repeat;
@@ -43,7 +43,8 @@
             height: auto;
             border-radius: 0.2rem;
             opacity: 0.8;
-            width: 70%;
+            width: 90%;
+            margin-right: 5rem;
         }
     
         img:hover {
