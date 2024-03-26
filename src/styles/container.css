@@ -2,6 +2,11 @@
     width: 100%;
     height: 100vh;
     margin: 0;
+    scroll-behavior:smooth;
+    h1{
+        color: white;
+    }
+    
 }
 .container:has(.entrada-container){
     background-image: url('../src/img/pic1.jpg');

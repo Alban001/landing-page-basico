@@ -1,7 +1,11 @@
-import { useState } from 'react'
+
 import './styles/container.css'
 import Header from './component/Header'
-import Entrada from './component/Entrada'
+import Entrada from './component/Home'
+import Trabajos from './component/Trabajos'
+import About from './component/About'
+import Contacto from './component/Contacto'
+import Footer from './component/Footer'
 
 function App() {
   
@@ -10,6 +14,10 @@ function App() {
     <div className='container'>
         <Header />
         <Entrada />
+        <Trabajos />
+        <About />
+        <Contacto />
+        <Footer />
     </div>
   )
 }

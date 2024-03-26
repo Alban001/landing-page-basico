@@ -1,0 +1,9 @@
+.contacto-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 2rem;
+    width: 100%;
+    border-radius: 0.5rem;
+    
+}
