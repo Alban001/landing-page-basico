@@ -5,10 +5,10 @@ const Header = () => {
   return (
     <header className='header-container'>
       <h1>TU LOGO</h1>
-        <input class="side-menu" type="checkbox" id="side-menu"/>
-        <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
-    <nav className='stroke'>
-      <ul>
+        <input className="side-menu" type="checkbox" id="side-menu"/>
+        <label className="hamb" htmlFor="side-menu"><span className="hamb-line"></span></label>
+    <nav className='stroke' id='nav-id'>
+      <ul className='menu'>
       <li><a href="#home">Home</a></li>
       <li><a href="#arte">Trabajo & Arte</a></li>
       <li><a href="#aboutMe">Sobre mi</a></li>
