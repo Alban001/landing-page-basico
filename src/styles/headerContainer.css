@@ -92,7 +92,10 @@ header {
   header.is-open {
     display: block;
     margin-top: 2rem;
+    width: 88%;
+    border-radius: 0.5rem;
     text-align: center;
+    background-color: rgba(0, 0, 0, 0.814);
     nav ul li{
       margin-right: 0.3rem;
       overflow: hidden;
@@ -113,9 +116,10 @@ header {
   }
 
   .trigger {
-    margin-top: 1.8rem;
-    margin-right: 2rem;
+    margin-left: 75%;
+    margin-top: 2.1rem;
     font-size: large;
+    position: fixed;
   }
 
   .logo {
