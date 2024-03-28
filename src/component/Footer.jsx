@@ -7,7 +7,7 @@ const Footer = () => {
          <div className='footer-text'>
               <h3>Encarnación-Py 2024</h3> <p>AgileSoftware</p>
          </div>
-      </footer>
+    </footer>
   )
 }
 
