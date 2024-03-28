@@ -14,5 +14,11 @@
   --bg: rgba(220, 20, 60, 0.504);
   box-sizing: border-box;
   scroll-behavior:smooth;
+  a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
 }
 
