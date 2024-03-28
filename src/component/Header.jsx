@@ -10,11 +10,11 @@ const Header = () => {
   }
   return (
     <div className='header-container'>
-    <div className='logo'><h1>tu logo</h1></div>
+    <div id='logo' className='logo'><h1>tu logo</h1></div>
     <header className={click ? "is-open" : ""}>
       <nav className="stroke"> 
          <ul >
-             <li><a href="#home">Home</a></li>
+             <li><a href="#logo">Home</a></li>
              <li><a href="#arte">Trabajo & Arte</a> </li>
              <li><a href="#aboutMe">Sobre mi</a></li>
              <li><a href="#contact">Contactos</a></li>
