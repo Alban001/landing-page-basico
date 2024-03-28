@@ -121,6 +121,9 @@ header {
     font-size: large;
     position: fixed;
   }
+  .trigger:hover{
+      color: #ff0b0b7c;
+  }
 
   .logo {
     margin-left: 1rem;
