@@ -123,6 +123,7 @@ header {
     margin-top: 2.1rem;
     font-size: large;
     position: fixed;
+    font-weight: 700;
   }
   .trigger:hover{
       color: #ff0b0b7c;
