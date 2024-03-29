@@ -15,7 +15,7 @@ const object = [{
     img:'/card3.jpg',
     desc: 'Inspiracion',
     face:'/facebook.png',
-},
+}
 ]
 
 export  default object

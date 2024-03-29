@@ -14,10 +14,10 @@ const Header = () => {
     <header className={click ? "is-open" : ""}>
       <nav className="stroke"> 
          <ul >
-             <li><a href="#logo">Home</a></li>
-             <li><a href="#arte">Trabajo & Arte</a> </li>
-             <li><a href="#aboutMe">Sobre mi</a></li>
-             <li><a href="#contact">Contactos</a></li>
+             <li><a href="#logo" onClick={handleClick}>Home</a></li>
+             <li><a href="#arte" onClick={handleClick}>Trabajo & Arte</a> </li>
+             <li><a href="#aboutMe" onClick={handleClick}>Sobre mi</a></li>
+             <li><a href="#contact" onClick={handleClick}>Contactos</a></li>
          </ul>
      </nav>
   
